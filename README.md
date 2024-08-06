@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 Use below link to see live demo:
-https://66b1ae134f9b117abb26b0b5--bright-biscochitos-b86833.netlify.app/
+
+https://atulmouryatictactoe.netlify.app/
+
 :smile: :smile: :smile:
 
 ## Available Scripts
